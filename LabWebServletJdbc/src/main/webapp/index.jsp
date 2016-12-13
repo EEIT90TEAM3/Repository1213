@@ -13,5 +13,9 @@
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product1</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product2</a></h3>
+
+
 </body>
 </html>
