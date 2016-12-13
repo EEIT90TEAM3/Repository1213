@@ -1,5 +1,8 @@
 /target/
-/.settings/
 /.classpath
 /.project
 /.springBeans
+/.settings/
+
+/.gitignore
+/pom.xml
