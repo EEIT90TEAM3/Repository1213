@@ -1,2 +1,7 @@
 /MANIFEST.MF
+<<<<<<< HEAD
 /.settings/
+=======
+>>>>>>> branch 'master' of https://github.com/EEIT90TEAM3/Repository1213.git
+/context.xml
+/.gitignore
