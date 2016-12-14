@@ -5,25 +5,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<h1>陳宗胤</h1>
+<h1>郭文輝<h1>
 <title>Home</title>
 </head>
 <body>
-<h1>陳宗胤</h1>
-<h1>郭文輝<h1>
-
+<h1>邱瑞豪</h1>
 <h3>盛彥鈞</h3>
 <h1>陳宗胤</h1>
-<h1>陳宗胤</h1>
-<h1>陳宗胤</h1>
-
-<h3>Welcome ${user.email}</h3>
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
 
-<h3>Welcome ${user.email}</h3>
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+>>>>>>> branch 'master' of https://github.com/EEIT90TEAM3/Repository1213.git
 
 
 
