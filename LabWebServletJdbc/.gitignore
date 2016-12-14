@@ -1,6 +1,7 @@
-/target/
+/.settings/
 /.classpath
 /.project
 /.springBeans
-/.settings/
+/target/
+
 /pom.xml
