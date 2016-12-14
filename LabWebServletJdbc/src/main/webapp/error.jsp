@@ -10,9 +10,10 @@
 
 
 
-
 <body>
 <h2>老闆大帥哥</h2>
+<h1>125544</h1>
+
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
