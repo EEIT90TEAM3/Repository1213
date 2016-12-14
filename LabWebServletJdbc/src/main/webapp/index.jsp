@@ -8,21 +8,17 @@
 <title>Home</title>
 </head>
 <body>
-
-<h3>Welcome ${user.email}</h3>
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h1>陳宗胤</h1>
 <h1>郭文輝<h1>
 
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
 
+<h3>Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
 
-
-
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product1</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product2</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product3</a></h3>
 
 
 
